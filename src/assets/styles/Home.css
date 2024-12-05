@@ -1,0 +1,10 @@
+.home {
+    text-align: center;
+    padding: 20px;
+   }
+   .recipe-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+   }
